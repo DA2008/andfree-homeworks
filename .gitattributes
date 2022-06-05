@@ -1,3 +1,2 @@
-*.kt linguist-language=kotlin
-*.java linguist-language=kotlin
-*.gradle linguist-language=kotlin
+Gemfile linguist-vendored
+Gemfile.lock linguist-vendored
